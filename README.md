@@ -1,6 +1,6 @@
 This project attempts to replicate a shell that can handle basic commands and functions
 
-Here is a list of accepted commands
+Here is a list of accepted commands\n
 exit - terminates the shell
 help - lists possible commands and usage instructions
 cd - changes current directory
